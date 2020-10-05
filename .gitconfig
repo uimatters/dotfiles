@@ -1,0 +1,19 @@
+[credential]
+	helper = osxkeychain
+[user]
+	email = corey.reed@tcu.edu
+	name = Corey Reed
+[pull]
+	rebase = false
+[push]
+	default = upstream
+[merge]
+	ff = only
+[fetch]
+	prune = true
+[commit]
+	template = /Users/coreyreed/Documents/git-commit-tmpl.txt
+[alias]
+	sla = log --oneline --decorate --graph --all
+	glog = log -E -i --grep
+	uncommit = reset --soft HEAD^
