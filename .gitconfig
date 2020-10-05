@@ -17,3 +17,5 @@
 	sla = log --oneline --decorate --graph --all
 	glog = log -E -i --grep
 	uncommit = reset --soft HEAD^
+	unstage = reset
+	co = checkout
