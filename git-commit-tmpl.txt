@@ -1,0 +1,26 @@
+# type: subject
+
+
+# body
+
+
+# footer
+
+
+# --- COMMIT END ---
+# Type can be 
+#    chore    (updating grunt tasks etc; no production code change)
+#    docs     (changes to documentation)
+#    feat     (new feature)
+#    fix      (bug fix)
+#    refactor (refactoring production code)
+#    style    (formatting, missing semi colons, etc; no code change)
+#    test     (adding or refactoring tests; no production code change)
+# --------------------
+# Remember to
+#  - Use the imperative, present tense: “change” not “changed” nor “changes”
+#  - Include closed issues on a separate line in the footer
+#    prefixed with “Closes” keyword like this: Closes #CU-7ph98u
+# --------------------
+# For updated template, visit:
+# https://bitbucket.org/tcuwebmanagement/workspace/snippets/dLpjy5
